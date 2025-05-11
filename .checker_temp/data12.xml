@@ -12,8 +12,8 @@
   <line>Command: /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/InputData/data12.in /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/out/data12.out</line>
 </preamble>
 
-<pid>7387</pid>
-<ppid>6178</ppid>
+<pid>1306</pid>
+<ppid>1132</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -32,16 +32,628 @@
 
 <status>
   <state>RUNNING</state>
-  <time>00:00:00:00.079 </time>
+  <time>00:00:00:00.586 </time>
 </status>
+
+<error>
+  <unique>0x0</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a79598 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
+
+<error>
+  <unique>0x1</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a7b618 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
+
+<error>
+  <unique>0x3</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a7e638 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
+
+<error>
+  <unique>0x4</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a7f678 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
+
+<error>
+  <unique>0x1e</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a77478 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A180</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
+
+<error>
+  <unique>0x3d</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a95c98 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1A8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
+
+<error>
+  <unique>0x3e</unique>
+  <tid>1</tid>
+  <kind>InvalidFree</kind>
+  <what>Invalid free() / delete / delete[] / realloc()</what>
+  <stack>
+    <frame>
+      <ip>0x484988F</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>free</fn>
+    </frame>
+    <frame>
+      <ip>0x10A1C8</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+  <auxwhat>Address 0x4a76898 is 8 bytes inside a block of size 16 alloc'd</auxwhat>
+  <stack>
+    <frame>
+      <ip>0x4846828</ip>
+      <obj>/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so</obj>
+      <fn>malloc</fn>
+    </frame>
+    <frame>
+      <ip>0x10A0FF</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>creare_arbore</fn>
+    </frame>
+    <frame>
+      <ip>0x10A48F</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>task3</fn>
+    </frame>
+    <frame>
+      <ip>0x10955D</ip>
+      <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
+      <fn>main</fn>
+    </frame>
+  </stack>
+</error>
 
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:02.750 </time>
+  <time>00:00:00:03.645 </time>
 </status>
 
 <errorcounts>
+  <pair>
+    <count>1</count>
+    <unique>0x3e</unique>
+  </pair>
+  <pair>
+    <count>1</count>
+    <unique>0x3d</unique>
+  </pair>
+  <pair>
+    <count>15</count>
+    <unique>0x4</unique>
+  </pair>
+  <pair>
+    <count>15</count>
+    <unique>0x3</unique>
+  </pair>
+  <pair>
+    <count>15</count>
+    <unique>0x1</unique>
+  </pair>
+  <pair>
+    <count>15</count>
+    <unique>0x0</unique>
+  </pair>
+  <pair>
+    <count>1</count>
+    <unique>0x1e</unique>
+  </pair>
 </errorcounts>
 
 <suppcounts>
