@@ -4,6 +4,7 @@
 #include "task1.h"
 #include "task2.h"
 #include "task3.h"
+#include "task4.h"
 
 
 void copiere_matrice(char *matrice, const char *matrice_sablon, int lungime, int latime){
@@ -50,6 +51,9 @@ int main(int argc, const char *argv[])
 
     copiere_matrice(matrice, matrice_sablon, lungime, latime);
     if(nr_task == 3) task3(fisier_iesire, matrice, lungime, latime, nr_generatii);
+
+    copiere_matrice(matrice, matrice_sablon, lungime, latime);
+    if(nr_task == 4) task4(fisier_iesire, matrice, lungime, latime, nr_generatii);
 
         // Eliberarea resurselor
         free(matrice_sablon);

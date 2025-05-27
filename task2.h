@@ -4,14 +4,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct list
-{
+struct list{
     int x, y;
     struct list *next;
 };
 
-struct memory_blocks
-{
+struct memory_blocks{
     struct list *cap_de_lista;
     struct memory_blocks *next;
 };

@@ -135,6 +135,7 @@ void eliberare_arbore(struct binary_data_tree *radacina){
     free(radacina);
 }
 
+
 void task3(FILE* fisier_iesire, char *matrice, int lungime, int latime, int nr_generatii){
     struct binary_data_tree *radacina = creare_arbore(matrice, 0, lungime, latime, nr_generatii);
 
