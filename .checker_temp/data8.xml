@@ -12,8 +12,8 @@
   <line>Command: /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/InputData/data8.in /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/out/data8.out</line>
 </preamble>
 
-<pid>1295</pid>
-<ppid>1132</ppid>
+<pid>132271</pid>
+<ppid>86737</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -32,13 +32,13 @@
 
 <status>
   <state>RUNNING</state>
-  <time>00:00:00:00.500 </time>
+  <time>00:00:00:00.787 </time>
 </status>
 
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:03.624 </time>
+  <time>00:00:00:11.826 </time>
 </status>
 
 <errorcounts>

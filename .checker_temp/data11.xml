@@ -12,8 +12,8 @@
   <line>Command: /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/InputData/data11.in /mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/out/data11.out</line>
 </preamble>
 
-<pid>1300</pid>
-<ppid>1132</ppid>
+<pid>132277</pid>
+<ppid>86737</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -32,7 +32,7 @@
 
 <status>
   <state>RUNNING</state>
-  <time>00:00:00:00.113 </time>
+  <time>00:00:00:00.716 </time>
 </status>
 
 <error>
@@ -47,42 +47,42 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -95,42 +95,42 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -149,42 +149,42 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -197,42 +197,42 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -251,42 +251,42 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -299,42 +299,42 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -353,42 +353,42 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -401,42 +401,42 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -455,22 +455,22 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -483,22 +483,22 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A180</ip>
+      <ip>0x10A1DA</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -517,22 +517,22 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -545,22 +545,22 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A1A8</ip>
+      <ip>0x10A202</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -579,17 +579,17 @@
       <fn>free</fn>
     </frame>
     <frame>
-      <ip>0x10A1C8</ip>
+      <ip>0x10A222</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -602,17 +602,17 @@
       <fn>malloc</fn>
     </frame>
     <frame>
-      <ip>0x10A0FF</ip>
+      <ip>0x10A159</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>creare_arbore</fn>
     </frame>
     <frame>
-      <ip>0x10A48F</ip>
+      <ip>0x10A4E9</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>task3</fn>
     </frame>
     <frame>
-      <ip>0x10955D</ip>
+      <ip>0x10957D</ip>
       <obj>/mnt/c/Users/andre/.vscode/Alt_Folder_Proiect/a.out</obj>
       <fn>main</fn>
     </frame>
@@ -622,7 +622,7 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:02.712 </time>
+  <time>00:00:00:09.967 </time>
 </status>
 
 <errorcounts>
