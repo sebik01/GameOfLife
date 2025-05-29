@@ -210,8 +210,12 @@ void alege_drum(FILE *fisier_iesire, char *matrice, char *parcurs, int lungime, 
 }
 
 void eliberare_memorie_grafuri(struct componenta_conexa* insula) {
-    struct list* curent = insula->cap_de_lista;
+    struct list* curent;
+
+    
     while(insula != NULL){
+    curent = insula->cap_de_lista;
+        
     while (curent != NULL) {
         struct list *temp = curent;
         curent = curent->next;
